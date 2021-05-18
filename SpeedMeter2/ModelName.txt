@@ -1,7 +1,9 @@
 [セミコロン（;）で終わるメインモデル名を入力してください [姓もセミコロンで終了]] (Please enter the Main Model names end with Semicolon(;) [Last name also end with Semicolon])
-Speedmeter;
+Speedmeter2;
 上で入力したモデルごとに、セミコロン（;）で終わる定数ファイルの数を入力してください(Please enter number of constant files end with semicolon (;) for each model entered above)
 2;
 [対応するすべての定数定義ファイル名をセミコロン（;）で終了して入力してください[姓もセミコロンで終了]](Please enter all corresponding constant definition file name end with semicolon(;) [Last name also end with Semicolon])
 Speedmeter_RAM;Speedmeter_ROM;
+Model Complexity level
+2;
 
